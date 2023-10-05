@@ -26,7 +26,7 @@ export function SingInButton(){
       <FaGithub 
       color="#FFB800"
       />
-      Entrar com o GitHub
+      Entrar com o GitHub teste
     </button>
   )
 
